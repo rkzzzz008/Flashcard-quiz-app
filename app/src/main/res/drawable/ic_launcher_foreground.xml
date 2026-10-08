@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 m-38,0 a38,38 0 1,0 76,0 a38,38 0 1,0 -76,0" />
+
+    <!-- Book pages left -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M36,38 L52,38 L52,70 L36,70 Q32,70 32,66 L32,42 Q32,38 36,38 Z" />
+
+    <!-- Book spine -->
+    <path
+        android:fillColor="#3730A3"
+        android:pathData="M51,36 L57,36 L57,72 L51,72 Z" />
+
+    <!-- Book pages right -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M72,38 L56,38 L56,70 L72,70 Q76,70 76,66 L76,42 Q76,38 72,38 Z" />
+
+    <!-- Star accent -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,26 L55.8,31.5 L61.5,31.5 L57,34.8 L58.8,40.3 L54,37 L49.2,40.3 L51,34.8 L46.5,31.5 L52.2,31.5 Z" />
+
+</vector>

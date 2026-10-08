@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Manifest theme: suppress action bar only. All visual styling is Compose-driven. -->
+    <style name="Theme.FlashCardQuizApp" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>

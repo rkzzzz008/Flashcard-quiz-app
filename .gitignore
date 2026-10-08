@@ -1,0 +1,27 @@
+gradle.properties
+local.properties
+.gradle
+build/
+captures/
+.externalNativeBuild
+.cxx
+*.local
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
